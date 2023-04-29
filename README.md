@@ -1,0 +1,1 @@
+# to-print-the-sallary-of-employee-by-rounf-figuring-into-int-using-cpp
